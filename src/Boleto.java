@@ -1,5 +1,5 @@
 import java.time.LocalDate;
-
+// teste
 public class Boleto {
 	private Condominio condominio;
 	private Morador morador;
